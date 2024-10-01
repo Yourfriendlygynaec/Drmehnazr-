@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Mehnaz Rashid - Consultant Gynaecologist Obstetrician</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #4CAF50;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Dr. Mehnaz Rashid</h1>
+    <p>Consultant Gynaecologist Obstetrician</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>Your go-to gynaecologist obstetrician, with a listening ear for all your problems sans any judgement!</p>
+    <h3>Qualifications</h3>
+    <p>MBBS, DNB Obstetrics & Gynaecology</p>
+    <p>Experience: 8 years</p>
+    <p>Gender: Female</p>
+    <p>Speciality: Obstetrics and Gynaecology</p>
+    <p>Languages Spoken: English, Hindi, Urdu, Kashmiri, Punjabi, Dogri, Kannada</p>
+</section>
+
+<section>
+    <h2>Area of Expertise</h2>
+    <ul>
+        <li>High risk pregnancy management</li>
+        <li>Pre-conception counselling & optimization</li>
+        <li>Antenatal care</li>
+        <li>Normal delivery, caesarean section</li>
+        <li>Evaluation and treatment of infertility, menstrual irregularities, PCOS, Endometriosis</li>
+        <li>Family planning, tubal procedures, Laparoscopic, abdominal, vaginal surgeries, Hysterectomy</li>
+        <li>Contraceptive counselling, STI diagnosis & treatment, Dyspareunia, Sexual dysfunction</li>
+        <li>Menopausal health, Pelvic floor disorders, Sexual education and counselling</li>
+    </ul>
+</section>
+
+<section>
+    <h2>About My Practice</h2>
+    <p>Specialized in obstetrics and gynaecology, with experience in handling high risk pregnancies. I am committed to compassionate care and evidence-based practices, empowering women to embrace pregnancy as a natural and fulfilling experience.</p>
+    <p>With a focus on holistic care, I provide comprehensive prenatal support, emphasizing natural childbirth methods and personalized birthing plans tailored to each patient’s values and preferences. I promote maternal health through evidence-based practices, fostering a supportive environment where expectant mothers feel informed and confident throughout their pregnancy and beyond.</p>
+    <p>I have a strong focus on lactation support and postpartum care, ensuring seamless transitions into motherhood and providing comprehensive guidance to enhance breastfeeding success and maternal well-being.</p>
+    <p>Furthermore, I provide compassionate care and education on a wide range of women’s health issues, encouraging proactive measures to achieve optimal physical and emotional health from adolescence through menopause, fostering a lasting commitment to self-care and wellness.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Dr. Mehnaz Rashid. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
